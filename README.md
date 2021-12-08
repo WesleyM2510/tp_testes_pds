@@ -5,7 +5,7 @@
 **Projeto:** Boto3  (https://github.com/boto/boto3)
 
 
-Boto3 é o Software Development Kit (SDK) da Amazon Web Services (AWS) para Python, que permite aos desenvolvedores a possibilidade de criar, deletar e gerenciar serviços em ambiente AWS. Os testes a serem apresentados abaixo, foram escritos através da bibliotéca unittest e são referentes à suite de testes presente [nest link](https://github.com/boto/boto3/blob/develop/tests/unit/test_boto3.py).
+Boto3 é o Software Development Kit (SDK) da Amazon Web Services (AWS) para Python, que permite aos desenvolvedores a possibilidade de criar, deletar e gerenciar serviços em ambiente AWS. Os testes a serem apresentados abaixo, foram escritos através da bibliotéca unittest e são referentes à suite de testes presente [neste link](https://github.com/boto/boto3/blob/develop/tests/unit/test_boto3.py).
 
 **Teste 1**
 ```python
